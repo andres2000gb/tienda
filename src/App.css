@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.titulo{
+  color: white !important;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.itemNav{
+  color: white !important;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.itemNav:hover{
+  border: solid white 1px;
+  border-radius: 5%;
+}
+
+.navegacion{
+  position: fixed !important;
+  width: 100%;
+  top:0;
+  overflow: hidden;
+  z-index: 99;
+}
+
+.piepagina{
+  background-color:"#343a40";
+  margin-top:"0px !important";
+  color:white;
+}
+
+.carouselAct .carousel-indicators li {
+  background-color: black !important;
+}
+
+.carta{
+  background-color:#EEEBF5 !important;
+}
