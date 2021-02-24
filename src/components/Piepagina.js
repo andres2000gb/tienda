@@ -31,7 +31,7 @@ function Piepagina() {
                                 <label style={{marginTop:"1vh",marginBottom:"1vh",fontWeight:"bold"}}><AiOutlineMail size="30"/>&nbsp;&nbsp;Contacto@gmail.com</label>
                             </li>
                             <li className="list-unstyled">  
-                                <label style={{marginTop:"1vh",marginBottom:"1vh",fontWeight:"bold"}}><AiOutlineInstagram size="30"/>&nbsp;&nbsp;@GangApps</label>
+                                <label style={{marginTop:"1vh",marginBottom:"1vh",fontWeight:"bold"}}><AiOutlineInstagram size="30"/>&nbsp;&nbsp;@Business</label>
                             </li>
                         </ul>
                     </MDBCol>

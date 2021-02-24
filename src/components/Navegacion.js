@@ -36,7 +36,7 @@ function Navegacion() {
                                 height="30"
                                 className="d-inline-block align-top"
                             />{' '}
-                            GangApps
+                            Business
                         </Navbar.Brand>
                     </Col>
                     <Col>
